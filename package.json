@@ -1,0 +1,23 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "ts类型体操",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shark-96/type-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shark-96/type-challenges/issues"
+  },
+  "homepage": "https://github.com/shark-96/type-challenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
