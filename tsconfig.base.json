@@ -10,7 +10,10 @@
     "noUnusedLocals": false,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
-    "allowJs": true
+    "allowJs": true,
+    "types": [
+      "vitest/globals"
+    ]
   },
   "exclude": ["node_modules", "dist"]
 }
